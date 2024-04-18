@@ -1,3 +1,5 @@
-[
-  "task1"
-]
+{
+  "delete": [],
+  "zip": ["task1"],
+  "download": ["mydatabase.db"]
+}
