@@ -1,5 +1,9 @@
 {
   "delete": [],
-  "zip": ["task1"],
-  "download": ["mydatabase.db"]
+  "zip": [
+    "task1!1"
+  ],
+  "download": [
+    "mydatabase.db"
+  ]
 }
