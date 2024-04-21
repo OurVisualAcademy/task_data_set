@@ -1,5 +1,5 @@
 {
-  "delete": [],
+  "delete": ["MLC0001.jpg","FBC0002.jpg"],
   "zip": [
     "task1!1"
   ],
