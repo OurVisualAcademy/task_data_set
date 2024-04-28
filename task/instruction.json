@@ -1,9 +1,9 @@
 {
   "delete": ["MLC0001.jpg","FBC0002.jpg!2","SNC0001.png","SNR0001.png","MLR0034.jpg","MBC0001.jpg","FLV0025.jpg","MBV0039.jpg","MBV0039.mp3","MLE0026.jpg"],
   "zip": [
-    "task1!1"
+    "task1!2"
   ],
   "download": [
-    "mydatabase.db!1"
+    "mydatabase.db!2"
   ]
 }
